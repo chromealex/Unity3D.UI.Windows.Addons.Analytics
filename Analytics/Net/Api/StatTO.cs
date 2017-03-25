@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI.Windows.Plugins.Analytics;
+using UnityEngine.UI.Windows.UserInfo;
 
 namespace UnityEngine.UI.Windows.Plugins.Analytics.Net.Api {
 
